@@ -1,0 +1,27 @@
+div.anterior {
+    background: url(f01.png) repeat-x bottom,url(f02.png) no-repeat bottom left, url(f03.png) repeat-x top left;
+    background-color: rgb(92, 201, 255);
+    width: 200px;
+    height: 100px;
+    border: solid rgb(4, 0, 255);
+    padding: 10px;
+}
+
+div.prueba {
+    background: url(f01.png) repeat-x bottom,url(f02.png) no-repeat bottom left, url(f03.png) repeat-x top left;
+    background-color: rgb(92, 201, 255);
+    width: 420px;
+    height: 340px;
+    margin: 20px;
+    border: solid rgb(255, 0, 0) 5px;
+    padding: 20px;
+}
+
+div.posterior {
+    background: url(f01.png) repeat-x bottom,url(f02.png) no-repeat bottom left, url(f03.png) repeat-x top left;
+    background-color: rgb(92, 201, 255);
+    width: 200px;
+    height: 100px;
+    border: solid rgb(4, 0, 255);
+    padding: 10px;
+}

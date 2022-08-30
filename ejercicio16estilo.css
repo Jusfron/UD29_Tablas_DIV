@@ -1,0 +1,22 @@
+table, th, td{
+    border-style: groove;
+    border-width: 2px;
+    border-spacing: 0px;
+    text-align: center;
+}
+
+td.g {
+    background-color: rgb(1, 97, 1);
+} 
+
+td.o {
+    background-color: rgb(208, 153, 49);
+} 
+
+td.y {
+    background-color: rgb(240, 240, 66);
+}
+
+td.p {
+    background-image: url(perro.jpg);
+}
